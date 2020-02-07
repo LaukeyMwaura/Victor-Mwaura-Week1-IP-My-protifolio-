@@ -58,3 +58,12 @@ ul  {
     color: gold;
     text-align: center;
 }
+ol{
+    list-style: none;
+    
+}
+.head   {
+    text-align: center;
+    text-decoration: underline;
+    font-size: xx-large;
+}
