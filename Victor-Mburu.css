@@ -52,3 +52,9 @@ ul  {
     border: rgb(20, 20, 20);
     border-style: double dotted;
 }
+.projects   {
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: gold;
+    text-align: center;
+}
