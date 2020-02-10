@@ -7,6 +7,7 @@
 This is a summary of who I am. Moreover, it is a summary of why I joined Moringa School and a summary of My week one projects all in one.
 
 ##Project setup instructions
+
 -To start using this project follow the following comands:
 
 -git clone https://github.com/LaukeyMwaura/Victor-Mwaura-Week1-IP-My-protifolio-
