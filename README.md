@@ -16,7 +16,7 @@ This is a summary of who I am. Moreover, it is a summary of why I joined Moringa
 
 -code . or atom .(To open the editor)
 
-##Link to live site 
+##Link to my live site 
 
 https://github.com/LaukeyMwaura/Victor-Mwaura-Week1-IP-My-protifolio-.git
 
