@@ -22,7 +22,7 @@ https://github.com/LaukeyMwaura/Victor-Mwaura-Week1-IP-My-protifolio-.git
 
 ##Copyright and license
 
-The Star And Thank Author License(SATA)
+The Star And Thank Author License (SATA)
 
 Copyright (c) laukeymwaura@gmail.com
 
