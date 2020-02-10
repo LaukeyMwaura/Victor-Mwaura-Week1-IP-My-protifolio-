@@ -8,8 +8,11 @@ This is a summary of who I am. Moreover, it is a summary of why I joined Moringa
 
 ##Project setup instructions
 -To start using this project follow the following comands:
+
 -git clone https://github.com/LaukeyMwaura/Victor-Mwaura-Week1-IP-My-protifolio-
+
 -cd Victor-Mwaura-Week1-IP-My-protifolio-
+
 -code . or atom .
 
 ##Link to live site 
