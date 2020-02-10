@@ -24,7 +24,7 @@ https://github.com/LaukeyMwaura/Victor-Mwaura-Week1-IP-My-protifolio-.git
 
 The Star And Thank Author License (SATA)
 
-Copyright (c) aukeymwaura@gmail.com
+Copyright (c) laukeymwaura@gmail.com
 
 Project Url:  https://github.com/LaukeyMwaura/Victor-Mwaura-Week1-IP-My-protifolio-
 
