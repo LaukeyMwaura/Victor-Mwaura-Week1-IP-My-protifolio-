@@ -1,7 +1,7 @@
 # Victor-Mwaura-Week1-IP-My-protifolio-
 
 ## Author
-[Victor Mburu](https://github.com/LaukeyMwaura)\
+[Victor Mburu](https://github.com/LaukeyMwaura)
 
 ##Description of Project
 This is a summary of who I am. Moreover, it is a summary of why I joined Moringa School and a summary of My week one projects all in one.
