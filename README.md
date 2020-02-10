@@ -14,7 +14,7 @@ This is a summary of who I am. Moreover, it is a summary of why I joined Moringa
 
 -cd Victor-Mwaura-Week1-IP-My-protifolio-
 
--code . or atom .()
+-code . or atom .(To open the editor)
 
 ##Link to live site 
 https://github.com/LaukeyMwaura/Victor-Mwaura-Week1-IP-My-protifolio-.git
