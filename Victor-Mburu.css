@@ -24,7 +24,7 @@ h3  {
 .about  {
     border: 2px solid yellow;
     padding: 110px;
-    background-image:url(pattern.jpg) ;
+    background-image:url(,/pattern.jpg) ;
     color: white;
     text-align: center;
 }
@@ -39,7 +39,7 @@ h3  {
     padding-left: 3px;
 }
 body    {
-    background-image: url(gradient.jpg);
+    background-image: url(,/gradient.jpg);
 }
 ul  {
     list-style: none;
