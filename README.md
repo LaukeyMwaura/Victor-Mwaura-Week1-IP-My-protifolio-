@@ -1,49 +1,46 @@
-# Victor-Mwaura-Week1-IP-My-protifolio-
-
-## Author
-[Victor Mburu](https://github.com/LaukeyMwaura)
-
-##Description of Project
-This is a summary of who I am. Moreover, it is a summary of why I joined Moringa School and a summary of My week one projects all in one.
-
-##Project setup instructions
-
--To start using this project follow the following comands:
-
--git clone https://github.com/LaukeyMwaura/Victor-Mwaura-Week1-IP-My-protifolio-
-
--cd Victor-Mwaura-Week1-IP-My-protifolio-
-
--code . or atom .(To open the editor)
-
-##Link to my live site 
-
-https://github.com/LaukeyMwaura/Victor-Mwaura-Week1-IP-My-protifolio-.git
-
-##Copyright and license
-
-The Star And Thank Author License (SATA)
-
-Copyright (c) laukeymwaura@gmail.com
-
-Project Url:  https://github.com/LaukeyMwaura/Victor-Mwaura-Week1-IP-My-protifolio-
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-And wait, the most important, you shall star/+1/like the project(s) in project url section above first, and then thank the author(s) in Copyright section.
-
-Here are some suggested ways:
-
--Email the authors a thank-you letter, and make friends with him/her/them.
-
--Report bugs or issues.
-
--Tell friends what a wonderful project this is.
-
--And, sure, you can just express thanks in your mind without telling the world.
-
-Contributors of this project by forking have the option to add his/her name and forked project url at copyright and project url sections, but shall not delete or modify anything else in these two sections.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+# Victor-Mwaura-Week1-IP-My-Portifolio
+#### This is My profile if you need a web Developer, 13/02/2020
+<a href="https://github.com/LaukeyMwaura/Victor-Mwaura-Week1-IP-My-protifolio-">view my portfolio</a>
+<a href="https://laukeymwaura.github.io/Victor-Mwaura-Week1-IP-My-protifolio-//">view my portfolio</a>
+#### By:
+1. Victor Mburu Mwaura ; lead developer
+## Description
+During a job search, the portfolio  will showcases My work to potential employers. It presents evidence of my relevant skills and abilities. Portfolios are also helpful for independent contractors, consultants, or business owners who need to provide work samples to potential clients.
+## Setup/Installation Requirements
+* Fork the repo
+* Create a new branch (git checkout -b improve-feature)
+* Make the appropriate changes in the files
+* Add changes to reflect the changes made
+* Commit your changes (git commit -am 'Improve feature')
+* Push to the branch (git push origin improve-feature)
+* Create a Pull Request
+## Known Bugs
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue here by including your search query and the expected result.
+If you'd like to request a new function, feel free to do so by opening an issue here. Please include sample queries and their corresponding results.
+## Technologies Used
+<a href="https://www.w3schools.com/">HTML W3schools</a> 
+<a href="https://css-tricks.com/">CSS Css trickes</a> 
+## Support and contact details
+call me on
+<img src="https://bit.ly/2H4L6UZ" width="109" style="border-radius:50%;">:0701407469
+<img src="https://bit.ly/383xk0Z" width="109" style="border-radius:50%;">:0701407469
+ 
+ <img src="https://bit.ly/2Smueyp" width="109" style="border-radius:50%;">:laukeymwaura@gmail.com
+### License
+MIT License
+Copyright (c) [2020] [Victor Mburu]
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
